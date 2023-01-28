@@ -405,7 +405,6 @@ The following table shows the state table of SR flip-flop.
 
 
 
-55 ys
 
 
 
@@ -668,7 +667,8 @@ The following table shows the state table of SR flip-flop.
 
 
 
-o![](/implll.png)
+
+![](/implll.png)
 
 Here, Qtt & Qt+1t+1 are present state & next state respectively. So, SR flip-flop can be used for one of these three functions such as Hold, Reset & Set based on the input conditions, when positive transition of clock signal is applied. The following table shows the characteristic table of SR flip-flop.
 Present Inputs	Present State	Next State
